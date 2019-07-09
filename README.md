@@ -1,7 +1,7 @@
 #Exercicio 1 DB1 Start
 
 <p>Arquivos usados para o exercicio 1 da DB1 start, logs.txt contendo as informações do log e o status.txt contendo informações dos
-<p>estatos do GIT local.
+estatos do GIT local.
 
 <p>**Pré-Requisitos**
   * Sistema operacional Windows
