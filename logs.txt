@@ -1,0 +1,11 @@
+commit 18f858bca1ca6e00a1b13ceba923c9972a7209a2 (HEAD -> master)
+Author: Joao Guilherme <jaum.gui001@gmail.com>
+Date:   Tue Jul 9 16:11:23 2019 -0300
+
+    Primeira auteração Status.txt
+
+commit 99c6c50136b6e7ecc5bffba6012ce618a47d6bde
+Author: Joao Guilherme <jaum.gui001@gmail.com>
+Date:   Tue Jul 9 16:09:46 2019 -0300
+
+    Primeira auteração Status.txt
