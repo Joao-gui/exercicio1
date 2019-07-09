@@ -4,13 +4,13 @@
 estatos do GIT local.
 
 <p>**Pré-Requisitos**
-  * Sistema operacional Windows
-  * Git Bash
+  <p>* Sistema operacional Windows
+  <p>* Git Bash
   
 <p>**Guia de Instalação**
- * Crie uma pasta com o nome a sua escolha.
- * Dentro dela com botão direito clique em Git Bash Here.
- * No Git Bash digite o seguente comando <git clone https://github.com/Joao-gui/exercicio1.git>
+ <p>* Crie uma pasta com o nome a sua escolha.
+ <p>* Dentro dela com botão direito clique em Git Bash Here.
+ <p>* No Git Bash digite o seguente comando <git clone https://github.com/Joao-gui/exercicio1.git>
  
  <p>É um projeto **OPEN SURCE**
  
