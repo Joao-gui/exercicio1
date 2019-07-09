@@ -7,7 +7,7 @@ estatos do GIT local.
   <p>* Sistema operacional Windows
   <p>* Git Bash
   
-<p>**Guia de Instalação**
+<p> **Guia de Instalação**
  <p>* Crie uma pasta com o nome a sua escolha.
  <p>* Dentro dela com botão direito clique em Git Bash Here.
  <p>* No Git Bash digite o seguente comando <git clone https://github.com/Joao-gui/exercicio1.git>
