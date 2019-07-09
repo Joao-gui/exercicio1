@@ -9,3 +9,53 @@ Author: Joao Guilherme <jaum.gui001@gmail.com>
 Date:   Tue Jul 9 16:09:46 2019 -0300
 
     Primeira auteração Status.txt
+
+commit c7e8b3484c222d1e6d6673d8a8fa06882c2d0793 (HEAD -> master, origin/master)
+Author: João Guilherme <52714370+Joao-gui@users.noreply.github.com>
+Date:   Tue Jul 9 16:44:14 2019 -0300
+
+    Update README.md
+
+commit e5f2b7c5d96de6c380504dbbd097d79d1433aceb
+Author: João Guilherme <52714370+Joao-gui@users.noreply.github.com>
+Date:   Tue Jul 9 16:43:51 2019 -0300
+
+    Update README.md
+
+commit 56e23d22f86bfd38395f0295eb8324feebb3c0c6
+Author: João Guilherme <52714370+Joao-gui@users.noreply.github.com>
+Date:   Tue Jul 9 16:43:36 2019 -0300
+
+    Update README.md
+
+commit 3f992c9c4804ff8c5d4830ff2555ffc7e5b1f367
+Author: João Guilherme <52714370+Joao-gui@users.noreply.github.com>
+Date:   Tue Jul 9 16:43:02 2019 -0300
+
+    Update README.md
+
+commit 901037a5e92ba9eb29bada0bfedc240a73ccb167
+Author: João Guilherme <52714370+Joao-gui@users.noreply.github.com>
+Date:   Tue Jul 9 16:42:42 2019 -0300
+
+    Update README.md
+
+commit 2fcf337db79129e0ad215417c49550843ad7a182
+Author: João Guilherme <52714370+Joao-gui@users.noreply.github.com>
+Date:   Tue Jul 9 16:41:42 2019 -0300
+
+    Create README.md
+
+commit bf71e47869750ef2abcdeb3f0c8930cef2edbe59
+Author: Joao Guilherme <jaum.gui001@gmail.com>
+Date:   Tue Jul 9 16:16:38 2019 -0300
+
+    Segunda alteração do status.txt
+
+commit edb8cb42c7f9b73f3403532986357856165ae485
+Author: Joao Guilherme <jaum.gui001@gmail.com>
+Date:   Tue Jul 9 16:16:03 2019 -0300
+
+    Primeira auteração do Logs.txt
+
+commit 18f858bca1ca6e00a1b13ceba923c9972a7209a2
